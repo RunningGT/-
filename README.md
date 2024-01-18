@@ -1,5 +1,4 @@
-# 我的寒假学习计划
-AI组学习
+# 我的寒假学习计划(AI组学习)
 ## 2024.1.18
 1. 已完成anaconda,pycharm,jupyter的使用
 2. 已完成简单的markdown语法学习
