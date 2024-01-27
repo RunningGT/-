@@ -1,0 +1,15 @@
+import numpy as np
+import pandas as pd
+s = pd.Series([1, 3, 4, np.nan, 88])
+print(s)
+date = pd.date_range('20240127', periods = 4)
+print(date)
+# df1 = pd.DataFrame(np.arange(12).reshape(3, 4))
+# print(df1)
+df2 = pd.DataFrame(np.random.randn(4, 3), index = date, columns = ['A', 'B', 'C'])
+print(df2)
+# print(df2.columns)
+# print(df2.index)
+# print(df2.values)
+# print(df2.describe())
+print(df2.T)
