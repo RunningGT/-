@@ -3,6 +3,7 @@
 ![v2-b727a33ded83b9d99fa152cb85c6c13b_1440w](https://github.com/RunningGT/-AI_Learning-/assets/156979158/65ff71fc-c74a-4f2c-8a12-177b45a6eb66)
 
 ## 具体内容见note文件夹里的记录
+- [x] 2024.1.29 —— 1.31 (一些数学知识)
 - [x] 2024.1.28 (Titanic数据集可视化)
 - [x] 2024.1.27 (matplotlib库) 
 - [x] 2024.1.24 —— 1.26 (numpy库和pandas库)
